@@ -1,0 +1,13 @@
+p{
+    background: white;
+    color: white
+}
+
+img {
+    width: 650px;
+    height: auto
+}
+
+.orange {
+    position: static;
+}
